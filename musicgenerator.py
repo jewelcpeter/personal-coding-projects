@@ -1,3 +1,4 @@
+# used google colab
 # MusicGen demo
 
 Demo and tutorial created for the youtube channel: https://youtu.be/9-GhKkYA6mA
