@@ -1,3 +1,4 @@
+#used google colab
 #import statements
 !pip install transformers ipywidgets
 from transformers import pipeline, set_seed
